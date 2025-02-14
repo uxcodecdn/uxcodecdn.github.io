@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  //$("div").addClass("bg-danger");
+  $("div").addClass("bg-danger");
 });
