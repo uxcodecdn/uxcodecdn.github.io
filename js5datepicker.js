@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $(".img-fluid").addClass("bg-danger");
+  //$(".img-fluid").addClass("bg-danger");
 });
